@@ -20,3 +20,13 @@ const sumAll = function(num1, num2) {
 // Do not edit below this line
 module.exports = sumAll;
 
+/*
+ HABILIDADES QUE QCHEI NECESSÁRIOS PARA RESOLVER ESTE EXERCÍCIO:
+ 
+1. Foi necessário entender o problema com clareza;
+2. Escrever o problema num papel e escrever o pseudocódigo
+3. Recapitular iterações (loop);
+4. recapitular aula sobre desestruturação;
+5. Recapitular operadores lógicos;
+6. lógica de programação, no caso usei if;
+*/
